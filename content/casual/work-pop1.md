@@ -11,6 +11,8 @@ VRゲーム「POPULATION: ONE」のプレイ映像から、自動的にキルシ
 
 <!--more-->
 
+![](https://i.gyazo.com/57cda7c3b1fee0a4930b65c68d68504d.png)
+
 # Repository
 - https://github.com/te260ku/pop1-kill-extractor
 
