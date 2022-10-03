@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Tetsuro Okuya</title>
-    <link>https://te260ku.github.io/my-portfolio/pages/</link>
+    <link>https://te260ku.github.io/portfolio/pages/</link>
     <description>Recent content in Pages on Tetsuro Okuya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://te260ku.github.io/my-portfolio/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://te260ku.github.io/portfolio/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://te260ku.github.io/my-portfolio/pages/about/</link>
+      <link>https://te260ku.github.io/portfolio/pages/about/</link>
       <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/pages/about/</guid>
+      <guid>https://te260ku.github.io/portfolio/pages/about/</guid>
       <description>所属・経歴 2020年~現在 / 慶應義塾大学 環境情報学部 中西泰人研究室
 興味 HCI / HRI / Virtual-Reality / Robotics / Human-Augmentation
 スキル Unity(C#) / ROS / Python / Fusion360 / 電子工作

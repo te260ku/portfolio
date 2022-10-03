@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tetsuro Okuya</title>
-    <link>https://te260ku.github.io/my-portfolio/</link>
+    <link>https://te260ku.github.io/portfolio/</link>
     <description>Recent content on Tetsuro Okuya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://te260ku.github.io/my-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://te260ku.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Boomshin: 触覚提示の有無を時間的に変動させるVRゲーム体験の評価</title>
-      <link>https://te260ku.github.io/my-portfolio/work/work-boomshin/</link>
+      <link>https://te260ku.github.io/portfolio/work/work-boomshin/</link>
       <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/work/work-boomshin/</guid>
+      <guid>https://te260ku.github.io/portfolio/work/work-boomshin/</guid>
       <description>&lt;p&gt;遭遇型触覚ディスプレイを用いて、VR空間内の物体の触覚提示の有無を時間的に切り替えることがVRゲーム体験に及ぼす影響を調査した。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>POP1 Kill Extractor</title>
-      <link>https://te260ku.github.io/my-portfolio/casual/work-pop1/</link>
+      <link>https://te260ku.github.io/portfolio/casual/work-pop1/</link>
       <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/casual/work-pop1/</guid>
+      <guid>https://te260ku.github.io/portfolio/casual/work-pop1/</guid>
       <description>&lt;p&gt;VRゲーム「POPULATION: ONE」のプレイ映像から、自動的にキルシーンを抽出してキル集を作成するプログラム。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>両眼視野闘争を用いたRedirected Walkingの検討</title>
-      <link>https://te260ku.github.io/my-portfolio/work/work-br-redirection/</link>
+      <link>https://te260ku.github.io/portfolio/work/work-br-redirection/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/work/work-br-redirection/</guid>
+      <guid>https://te260ku.github.io/portfolio/work/work-br-redirection/</guid>
       <description>&lt;p&gt;両眼視野闘争の性質を活用したRedirected Walkingの手法を検討した。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>移動ロボットを用いた広域・高解像度な凹凸地図の構築</title>
-      <link>https://te260ku.github.io/my-portfolio/work/work-hapmap/</link>
+      <link>https://te260ku.github.io/portfolio/work/work-hapmap/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/work/work-hapmap/</guid>
+      <guid>https://te260ku.github.io/portfolio/work/work-hapmap/</guid>
       <description>&lt;p&gt;移動ロボットとVIOを用いて、地面の数mm程度の凹凸の情報を含む触覚地図を構築するシステムを開発した。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>clusterワールド制作</title>
-      <link>https://te260ku.github.io/my-portfolio/casual/work-cluster/</link>
+      <link>https://te260ku.github.io/portfolio/casual/work-cluster/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/casual/work-cluster/</guid>
+      <guid>https://te260ku.github.io/portfolio/casual/work-cluster/</guid>
       <description>&lt;p&gt;バーチャルSNS「&lt;a href=&#34;https://cluster.mu/&#34;&gt;cluster&lt;/a&gt;」にて、バーチャルにおける特異で新しい体験を軸に、様々なワールドを制作している。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://te260ku.github.io/my-portfolio/pages/about/</link>
+      <link>https://te260ku.github.io/portfolio/pages/about/</link>
       <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/pages/about/</guid>
+      <guid>https://te260ku.github.io/portfolio/pages/about/</guid>
       <description>所属・経歴 2020年~現在 / 慶應義塾大学 環境情報学部 中西泰人研究室
 興味 HCI / HRI / Virtual-Reality / Robotics / Human-Augmentation
 スキル Unity(C#) / ROS / Python / Fusion360 / 電子工作
@@ -66,118 +66,118 @@
     
     <item>
       <title>Path-Code</title>
-      <link>https://te260ku.github.io/my-portfolio/casual/work-path-code/</link>
+      <link>https://te260ku.github.io/portfolio/casual/work-path-code/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/casual/work-path-code/</guid>
+      <guid>https://te260ku.github.io/portfolio/casual/work-path-code/</guid>
       <description>&lt;p&gt;定められたルートを特定の移動方法で辿ることで、隠蔽された情報にアクセスするシステムを開発した。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>SADOKU</title>
-      <link>https://te260ku.github.io/my-portfolio/job/sadoku/</link>
+      <link>https://te260ku.github.io/portfolio/job/sadoku/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/job/sadoku/</guid>
+      <guid>https://te260ku.github.io/portfolio/job/sadoku/</guid>
       <description>&lt;p&gt;VR空間にて、物理学の諸現象を体験的に学ぶための学習コンテンツを開発した。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>匂いの回路</title>
-      <link>https://te260ku.github.io/my-portfolio/work/work-fragrance-circuit/</link>
+      <link>https://te260ku.github.io/portfolio/work/work-fragrance-circuit/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/work/work-fragrance-circuit/</guid>
+      <guid>https://te260ku.github.io/portfolio/work/work-fragrance-circuit/</guid>
       <description>&lt;p&gt;目が見えない宇宙人を香りで導いて宇宙人に回路を修理させる、視嗅覚を用いたマルチモーダルな体験を制作した。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Piropiro User Interface</title>
-      <link>https://te260ku.github.io/my-portfolio/work/work-pui/</link>
+      <link>https://te260ku.github.io/portfolio/work/work-pui/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/work/work-pui/</guid>
+      <guid>https://te260ku.github.io/portfolio/work/work-pui/</guid>
       <description>&lt;p&gt;吹き戻しを用いて息の検出を行うユーザーインターフェースと、それを用いて身体部位や息に対する拡張感を提示するアプリケーションを開発した。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>θ館ワールド</title>
-      <link>https://te260ku.github.io/my-portfolio/casual/work-theta/</link>
+      <link>https://te260ku.github.io/portfolio/casual/work-theta/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/casual/work-theta/</guid>
+      <guid>https://te260ku.github.io/portfolio/casual/work-theta/</guid>
       <description>&lt;p&gt;大学の講義棟をバーチャルSNS「&lt;a href=&#34;https://cluster.mu/&#34;&gt;cluster&lt;/a&gt;」にて再現した。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>TimeAchine</title>
-      <link>https://te260ku.github.io/my-portfolio/casual/work-timeachine/</link>
+      <link>https://te260ku.github.io/portfolio/casual/work-timeachine/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/casual/work-timeachine/</guid>
+      <guid>https://te260ku.github.io/portfolio/casual/work-timeachine/</guid>
       <description>&lt;p&gt;人間の歩行動作を行うSCARA型ロボットを用いて、時間と空間からの脱却を表現する。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Doremi Squash</title>
-      <link>https://te260ku.github.io/my-portfolio/work/work-doremi_squash/</link>
+      <link>https://te260ku.github.io/portfolio/work/work-doremi_squash/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/work/work-doremi_squash/</guid>
+      <guid>https://te260ku.github.io/portfolio/work/work-doremi_squash/</guid>
       <description>&lt;p&gt;空間の幾何情報を活用したインタラクティブなMRゲーム。部屋の壁や床にボールを当ててスカッシュをプレイする。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Cosmo Shooter</title>
-      <link>https://te260ku.github.io/my-portfolio/casual/work-three_fps/</link>
+      <link>https://te260ku.github.io/portfolio/casual/work-three_fps/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/casual/work-three_fps/</guid>
+      <guid>https://te260ku.github.io/portfolio/casual/work-three_fps/</guid>
       <description>&lt;p&gt;銀河に散らばる宇宙ゴミを撃ち落とすブラウザベースのFPS。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>恋風</title>
-      <link>https://te260ku.github.io/my-portfolio/casual/work-koikaze/</link>
+      <link>https://te260ku.github.io/portfolio/casual/work-koikaze/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/casual/work-koikaze/</guid>
+      <guid>https://te260ku.github.io/portfolio/casual/work-koikaze/</guid>
       <description>&lt;p&gt;いつでもどこでも誰かとすれ違う感覚を味わえる装置。足音や匂いをインタラクティブに提示することによって、視覚に依存しないバーチャルなすれ違い体験が可能。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Emotional Ice</title>
-      <link>https://te260ku.github.io/my-portfolio/work/work-emotional_ice/</link>
+      <link>https://te260ku.github.io/portfolio/work/work-emotional_ice/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/work/work-emotional_ice/</guid>
+      <guid>https://te260ku.github.io/portfolio/work/work-emotional_ice/</guid>
       <description>&lt;p&gt;表情によって尖ったり凹んだりする製氷モーダル。IoTにおける食べることによるインタラクションの可能性を検証した。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tiger Hunting</title>
-      <link>https://te260ku.github.io/my-portfolio/casual/work-tiger_hunting/</link>
+      <link>https://te260ku.github.io/portfolio/casual/work-tiger_hunting/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/casual/work-tiger_hunting/</guid>
+      <guid>https://te260ku.github.io/portfolio/casual/work-tiger_hunting/</guid>
       <description>&lt;p&gt;闇夜に身を潜める野生のトラを駆除するVRシューティングゲーム。3Dプリントした実寸大のライフルを持ちながら体験する。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ねこ放題</title>
-      <link>https://te260ku.github.io/my-portfolio/work/work-ivrc2019/</link>
+      <link>https://te260ku.github.io/portfolio/work/work-ivrc2019/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/work/work-ivrc2019/</guid>
+      <guid>https://te260ku.github.io/portfolio/work/work-ivrc2019/</guid>
       <description>&lt;p&gt;VR空間で猫に触れたときの触感を手の平全体に対して提示する装置。バーチャル空間内の動物とふれあうコンテンツに応用した。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tapioca Hunter</title>
-      <link>https://te260ku.github.io/my-portfolio/casual/work-tapioca/</link>
+      <link>https://te260ku.github.io/portfolio/casual/work-tapioca/</link>
       <pubDate>Mon, 01 Jul 2019 10:51:47 +0530</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/casual/work-tapioca/</guid>
+      <guid>https://te260ku.github.io/portfolio/casual/work-tapioca/</guid>
       <description>&lt;p&gt;ブラウザ上で遊べるタピオカをテーマにしたインタラクティブなゲーム。3次元空間に浮遊するタピオカをクリックしてハイスコアを目指す。&lt;/p&gt;</description>
     </item>
     

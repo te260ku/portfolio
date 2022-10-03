@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jobs on Tetsuro Okuya</title>
-    <link>https://te260ku.github.io/my-portfolio/job/</link>
+    <link>https://te260ku.github.io/portfolio/job/</link>
     <description>Recent content in Jobs on Tetsuro Okuya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://te260ku.github.io/my-portfolio/job/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://te260ku.github.io/portfolio/job/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SADOKU</title>
-      <link>https://te260ku.github.io/my-portfolio/job/sadoku/</link>
+      <link>https://te260ku.github.io/portfolio/job/sadoku/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://te260ku.github.io/my-portfolio/job/sadoku/</guid>
+      <guid>https://te260ku.github.io/portfolio/job/sadoku/</guid>
       <description>&lt;p&gt;VR空間にて、物理学の諸現象を体験的に学ぶための学習コンテンツを開発した。&lt;/p&gt;</description>
     </item>
     
