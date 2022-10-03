@@ -1,0 +1,6 @@
+baseURL = "https://te260ku.github.io/my-portfolio/"
+languageCode = "en-us"
+title = "Tetsuro Okuya"
+theme = "hugo-cards"
+publishDir = "docs"
+canonifyurls = true
