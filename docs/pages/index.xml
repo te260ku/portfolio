@@ -6,18 +6,14 @@
     <description>Recent content in Pages on Tetsuro Okuya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://te260ku.github.io/portfolio/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://te260ku.github.io/portfolio/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://te260ku.github.io/portfolio/pages/about/</link>
-      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
-      
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/pages/about/</guid>
-      <description>所属・経歴 2020年~現在 / 慶應義塾大学 環境情報学部 中西泰人研究室
-興味 HCI / HRI / Virtual-Reality / Robotics / Human-Augmentation
-スキル Unity(C#) / ROS / Python / Fusion360 / 電子工作
-資格 VR技術者 (2021年8月取得)</description>
+      <description>所属 慶應義塾大学大学院　政策・メディア研究科　M1&#xA;中西泰人研究室 (http://unitedfield.net/)&#xA;経歴 2019年4月　慶應義塾大学　環境情報学部　入学&#xA;2023年3月　慶應義塾大学　環境情報学部　卒業&#xA;2023年4月　慶應義塾大学大学院　政策・メディア研究科　入学&#xA;職歴 2021年4月-2021年4月　株式会社x garden（インターン）&#xA;2022年4月-2022年4月　株式会社イマクリエイト（インターン）&#xA;研究分野 HCI / HRI / Virtual-Reality / Robotics / Human-Augmentation&#xA;スキル Unity(C#) / ROS / Python / Fusion360 / 電子工作&#xA;資格 バーチャルリアリティ技術者（2021年8月取得）</description>
     </item>
-    
   </channel>
 </rss>
