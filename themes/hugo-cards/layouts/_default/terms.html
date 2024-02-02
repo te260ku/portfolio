@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+<h2>{{ .Title }}</h2>
+
+{{ if eq .Title "Categories"}}
+    {{ if lt 0 (len .Site.Taxonomies.categories) }}
+    <ul>
+        {{ range .Site.Taxonomies.categories.ByCount }}
+        <li><a href="{{ $.Site.BaseURL | relURL }}categories/{{ .Name | urlize }}">{{ .Name }}<span>({{ .Count }})</span></a></li>
+        {{ end }}
+    </ul>
+    {{ end }}
+{{ end }}
+{{ partial "footer.html" . }}

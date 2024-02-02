@@ -1,0 +1,61 @@
+{{ define "main" }}
+<div class="row_">
+<!-- <div class="col-md-12"> -->
+  
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+      
+      <div class="container">
+        
+        
+          <header class="post-header text-center">
+            <h1 class="post-title pt-3" itemprop="name headline">{{ .Title }}</h1>
+            <!-- <p class="post-meta"><time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}' itemprop="datePublished">{{ .Date.Format "January 2, 2006" }}</time>{{ with .Params.Author }} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ . }}</span></span>{{ end }}</p> -->
+                 
+          </header>
+          <div class="row">
+            <div class="col-md-6 col-md-offset-3">
+          <div class="post-img">
+            {{ if .Params.img }}
+             <img width="600" src="{{ .Site.BaseURL}}images/{{ .Params.img }}" alt="{{ .Params.title }}">
+             {{ else }}
+             <img width="600" src="{{ .Site.BaseURL }}images/{{ .Site.Params.defaultImage }}" alt="">
+             {{ end }}
+          </div>
+          <div class="post-content" itemprop="articleBody">
+            {{ .Content }}
+          </div>
+          </div>
+          </div>
+      </div>
+
+      
+
+    </article>
+
+
+    <div class="row">
+        {{ if .Site.Params.disqus }}
+         {{ partial "disqus.html" . }}
+        {{ end }}
+    </div>
+    
+    <div class="row text-center backbutton">
+            <!-- <ul class="pager">
+             {{ with .NextPage }}
+                    <li><a class="next" href="{{ .Permalink }}">&laquo; {{ .Title }}</a></li>
+              {{ end }}
+              {{ with .PrevPage }}
+                <li><a class="previous" href="{{ .Permalink }}">{{ .Title }} &raquo;</a></li>
+              {{ end }}
+            </ul> -->
+            <a href="{{ .Site.BaseURL }}" class="simple_square_btn2">TOP</a>
+    </div>
+</div>
+
+
+<!-- {{ partial "sidebar.html" . }} -->
+
+<!-- </div> -->
+
+{{ partial "fb-script.html" . }}
+{{ end }}

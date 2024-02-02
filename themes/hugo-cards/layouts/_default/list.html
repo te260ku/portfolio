@@ -1,0 +1,128 @@
+{{ define "main" }}
+
+<div class="home">
+
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2 text-center profile">
+    
+      <img src="{{ .Site.BaseURL }}images/avator.png" class="img-circle profile-image" alt="...">
+    
+      <!-- <h1 class="top-title">Tetsuro Okuya</h1>
+      {{with  .Site.Params.twitter }}
+          <a target="_blank" href="{{.}}"><li class="social twitter"><i class="fa fa-twitter"></i></li></a>
+      {{ end }}
+      {{with  .Site.Params.github }}
+          <a target="_blank" href="{{.}}"><li class="social github"><i class="fa fa-github"></i></li></a>
+      {{ end }} -->
+      <div class="top-sentence">
+        <p><i class="fa fa-institution"></i>  慶應義塾大学  環境情報学部</p>
+        <p><i class="fa fa-pencil"></i> Human Computer Interaction, Virtual Reality, Robotics</p>
+      
+      </div>
+
+    </div>
+  </div>
+
+
+
+
+ 
+  {{ $c := "research" }}
+  {{ if eq .Section "research" }}
+  {{ $c = "research" }}
+  {{else if eq .Section "casual"}}
+  {{ $c = "casual" }}
+  {{else if eq .Section "job"}}
+  {{ $c = "job" }}
+  {{ end }}
+  
+          <div class="category-text">
+            
+            <h2 style="display:inline;">WORKS</h2>
+            <!-- <p style="display:inline; font-size: 20px; padding-left: 10px;">- {{upper $c }} -</p> -->
+            <div class="alert alert-primary" style="display:inline; font-size: 20px; padding-left: 10px;">{{upper $c }}</div>
+            <div style="padding-top: 15px;">
+              <span class="badge bg-secondary"> Category </span>
+              <a href="{{ .Site.BaseURL }}" style="padding-left: 10px;">Research</a>
+              <a href="{{ .Site.BaseURL }}/casual/" style="padding-left: 10px;">Casual</a>
+              <a href="{{ .Site.BaseURL }}/job/" style="padding-left: 10px;">Job</a>
+            </div>
+
+          </div>
+
+    <div class="row pack">
+      
+
+    {{ $cposts := index .Site.Taxonomies.categories (lower $c) }}
+    
+    {{range $cposts}}
+
+    
+    <div class="col-md-4 card">
+      <a href="{{ .Permalink }}" class="index-anchor"> 
+       <!-- <a href="" data-toggle="modal" data-target="#Modal" class="index-anchor"> -->
+         <div class="panel panel-default">
+           
+           <div class="card-image">
+           {{ if .Params.img }}
+           <img width="100%" height="100%" src="{{ .Site.BaseURL }}/images/{{ .Params.img }}" alt="{{ .Title }}">
+           {{ else }}
+           <img width="100%" src="{{ .Site.BaseURL }}/images/{{ .Site.Params.defaultImage }}" alt="{{ .Site.Title }}">
+           {{ end }}
+           </div>
+           
+           <div class="panel-body">
+             <h3 class="panel-title pull-left">{{ .Title | truncate 50 }}</h3>
+           </div>
+           
+           <div class="panel-body"><small>
+             {{ .Summary | plainify | truncate 180 }}</small>
+           </div>
+         </div>
+         </a>
+     </div>
+    {{ end }}
+    
+          
+
+    </div> 
+    
+<!-- <div class="row">
+    <div class="col-md-4">  </div>
+    <div class="col-md-4">
+        {{ if gt .Paginator.TotalPages 1 }}
+        <ul class="pagination">
+          {{ if .Paginator.HasPrev }}
+            <li><a href="{{ .Paginator.Prev.URL }}">&laquo; Prev</a></li>
+          {{ else }}
+            <li><span>&laquo; Prev</span></li>
+          {{ end }}
+
+          {{ $scratch := newScratch }}
+          {{ $scratch.Set "current" .Paginator.PageNumber }} 
+
+          {{ range .Paginator.Pagers }}
+            {{ if eq .PageNumber ($scratch.Get "current") }}
+              <li class="active"><span><em>{{ .PageNumber }}</em></span></li>
+            {{ else }}
+            <li><a href="{{ .URL }}">{{ .PageNumber }}</a></li>
+            {{ end }}
+          {{ end }}
+
+          {{ if .Paginator.HasNext }}
+            <li><a href="{{ .Paginator.Next.URL }}">Next &raquo;</a></li>
+          {{ else }}
+            <li><span >Next &raquo;</span></li>
+          {{ end }}
+          </ul>
+        {{ end }}
+
+    </div>
+    <div class="col-md-4">  </div>
+</div> -->
+
+</div>
+
+
+
+{{ end }}

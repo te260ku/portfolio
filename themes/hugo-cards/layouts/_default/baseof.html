@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<link rel="icon" href="{{ .Site.BaseURL }}images/favicon.ico" />
+<html>
+
+  {{ partial "head.html" .}}
+
+  <body>
+
+    <div class="container">
+    {{ partial "header.html" . }}
+
+  </div>
+
+
+    <div id="stage"></div>
+    <div id="main">
+
+    <div class="container">
+      <div class="wrapper">
+        {{ block "main" . }} {{ end }}
+      </div>
+    </div>
+
+
+    {{ partial "footer.html" . }}    
+  </div>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <script src="{{ .Site.BaseURL }}/js/bootstrap.min.js"></script>
+
+
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r125/three.min.js"></script>
+		
+    
+  {{ with .Site.Params.analytics }} 
+    {{ partial "analytics.html" . }}
+  {{ end }}
+  </body>
+
+</html>

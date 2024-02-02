@@ -1,0 +1,71 @@
+.pagination {
+	display: flex;
+	justify-content: center;
+}
+
+.header-title {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 25px;
+
+    display: inline-block;
+    padding-top: 10px;
+}
+
+.wrapper {
+    // width: 85%;
+    // margin: auto;
+    padding-bottom: 50px;
+}
+
+.home {
+    width: 85%;
+    margin: auto;
+}
+
+.profile-image {
+    width: 15%;
+}
+
+.profile {
+    margin-top: 20px;
+}
+
+.test:hover {
+    border: none;
+    color: white;
+}
+
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    // color: #4582ec;
+    border: none;
+}
+
+
+.blue-box {
+    background: #f3fbff;
+  border: 2px skyblue dashed;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+h1 {
+    font-size: large;
+}
+
+h2 {
+    font-size: large;
+}
+
+.category-text {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.category-text h2 {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: x-large;
+    letter-spacing: 2px;
+}
