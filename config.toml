@@ -4,3 +4,8 @@ title = "Tetsuro Okuya"
 theme = "hugo-cards"
 publishDir = "docs"
 canonifyurls = true
+[params.widgets]
+    tags = true
+[taxonomies]
+    tag = "tags"
+    category = "categories"

@@ -1,3 +1,14 @@
+:root {
+    --primary-accent: #467fbf;
+    --navbar-border-top: #294d76;
+    --button-border: #336194;
+    --link-focus: #2f5a89;
+    --form-shadow: rgba(70, 127, 191, 0.6);
+    --pagination-bg: #b8cee6;
+    --link-hover-bg: #36669c;
+    --navbar-focus: #92b3d9;
+  }
+
 .pagination {
 	display: flex;
 	justify-content: center;
@@ -42,6 +53,8 @@
 }
 
 
+
+
 .blue-box {
     background: #f3fbff;
   border: 2px skyblue dashed;
@@ -69,3 +82,36 @@ h2 {
     font-size: x-large;
     letter-spacing: 2px;
 }
+
+.panel.sidebar-menu ul.tag-cloud {
+  list-style: none;
+  padding-left: 0;
+}
+.panel.sidebar-menu ul.tag-cloud li {
+  display: inline-block;
+}
+.panel.sidebar-menu ul.tag-cloud li a {
+  display: inline-block;
+  padding: 5px;
+  border: solid 1px #eeeeee;
+  border-radius: 0;
+  color: var(--primary-accent);
+  margin: 5px 5px 5px 0;
+  // text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  font-size: 12px;
+  text-decoration: none;
+}
+.panel.sidebar-menu ul.tag-cloud li a:hover {
+  color: var(--primary-accent);
+  border-color: var(--primary-accent);
+}
+.panel.sidebar-menu ul.tag-cloud li.active a {
+  color: #FFFFFF;
+  background-color: var(--primary-accent);
+}
+.panel.sidebar-menu ul.tag-cloud li.active a:hover {
+  color: #FFFFFF;
+}
+

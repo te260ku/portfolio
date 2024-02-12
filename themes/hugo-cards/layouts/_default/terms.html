@@ -10,4 +10,16 @@
     </ul>
     {{ end }}
 {{ end }}
+
+
+{{ if eq .Title "Tags"}}
+    {{ if lt 0 (len .Site.Taxonomies.tags) }}
+    <ul>
+        {{ range .Site.Taxonomies.tags.ByCount }}
+        <li><a href="{{ $.Site.BaseURL | relURL }}tags/{{ .Name | urlize }}">{{ .Name }}<span>({{ .Count }})</span></a></li>
+        {{ end }}
+    </ul>
+    {{ end }}
+{{ end }}
+
 {{ partial "footer.html" . }}

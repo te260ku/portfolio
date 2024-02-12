@@ -4,6 +4,7 @@ title:  "Boomshin: 触覚提示の有無を時間的に変動させるVRゲー�
 img: boomshin.png
 categories: [research]
 date: "2022-09-28"
+tags: [VR, Haptics, Robot, Game]
 ---
 
 遭遇型触覚ディスプレイを用いて、VR空間内の物体の触覚提示の有無を時間的に切り替えることがVRゲーム体験に及ぼす影響を調査した。

@@ -10,7 +10,37 @@
           <header class="post-header text-center">
             <h1 class="post-title pt-3" itemprop="name headline">{{ .Title }}</h1>
             <!-- <p class="post-meta"><time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}' itemprop="datePublished">{{ .Date.Format "January 2, 2006" }}</time>{{ with .Params.Author }} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ . }}</span></span>{{ end }}</p> -->
+
+            <div class= "panel sidebar-menu">
+              <ul class="tag-cloud">
+
+              <li>
+                {{ with .Params.categories }}<div>Categories:{{ range . }} <a href="/categories/{{ . }}/">{{ . }}</a>{{ end }}</div>{{ end }}
+              </li>
+
+              <!-- <br> -->
+              <li>
+              {{ with .Params.tags }}
+              <div>
+                Tags:{{ range . }} 
+                <a href='{{ "tags/" | relLangURL }}{{ . | urlize | lower }}/'>
+                  <i class="fa fa-tag"></i> {{ . }}
+                </a>
+                {{ end }}
+              </div>
+              {{ end }}
+              </li>
+              
+              </ul>
+            </div>
+
+    
+            
                  
+
+
+
+
           </header>
           <div class="row">
             <div class="col-md-6 col-md-offset-3">
@@ -24,6 +54,16 @@
           <div class="post-content" itemprop="articleBody">
             {{ .Content }}
           </div>
+
+
+
+          
+
+
+
+
+
+
           </div>
           </div>
       </div>

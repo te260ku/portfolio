@@ -242,4 +242,10 @@ article.post {
     background: none;
 }
 
-
+.sort-title {
+    display: inline-block;
+    border-bottom: solid 5px var(--primary-accent);
+    // line-height: 1.1;
+    margin-bottom: 1em;
+    padding-bottom: 5px;
+  }
