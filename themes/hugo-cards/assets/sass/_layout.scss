@@ -1,3 +1,14 @@
+:root {
+    --primary-accent: #467fbf;
+    --navbar-border-top: #294d76;
+    --button-border: #336194;
+    --link-focus: #2f5a89;
+    --form-shadow: rgba(70, 127, 191, 0.6);
+    --pagination-bg: #b8cee6;
+    --link-hover-bg: #36669c;
+    --navbar-focus: #92b3d9;
+  }
+
 html,body {
     font-family: $base-font-family;
     font-size: $base-font-size;
@@ -99,7 +110,7 @@ footer {
     }
 .social-icon {
     font-size: 1.7em;
-    margin-top: -2px;
+    margin-top: -2.4px;
 }
 .social:hover {
      opacity: 0.7;
@@ -134,10 +145,12 @@ footer {
     width: 100%;
 }
 
+.post-content img {
+    margin: 1em 0em;
+}
+
 
 .pack {
-
-
     display: -webkit-inline-flex;
     display: -ms-inline-flexbox;
     display: inline-flex;
@@ -199,10 +212,10 @@ article.post {
     border-radius: 10px;
 }
 .simple_square_btn2:hover {
-	 background: #4582ec;
-         color: #fff;
-	 cursor: pointer;
-	 text-decoration: none;
+    background: #4582ec;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
 }
 .backbutton {
     margin-bottom: 50px;
@@ -212,40 +225,82 @@ article.post {
     padding-top: 6px;
 }
 
-// #main {
-//     width:100%;
-//        height:100%;
-//        overflow-y:scroll;
-//        margin:0;
-//        padding:8;
-//        position: absolute;
-//  }
 
- #stage {
+
+#stage {
     position: absolute;
- }
+}
 
 .card-image {
     background-color: #000;
 }
-  .card-image img{
+.card-image img{
     width: 100%;
     cursor: pointer;
     transition-duration: 0.3s;
-  }
-  .card-image:hover img{
+}
+.card-image:hover img{
     opacity: 0.6;
     transition-duration: 0.3s;
-  }
+}
 
 .panel {
     background: none;
 }
 
+
 .sort-title {
-    display: inline-block;
-    border-bottom: solid 5px var(--primary-accent);
-    // line-height: 1.1;
-    margin-bottom: 1em;
-    padding-bottom: 5px;
-  }
+    color: #505050;/*文字色*/
+    padding: 0.5em;/*文字周りの余白*/
+    display: inline-block;/*おまじない*/
+    line-height: 1.3;/*行高*/
+    background: #dbebf8;/*背景色*/
+    vertical-align: middle;
+    border-radius: 25px 0px 0px 25px;/*左側の角を丸く*/
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.sort-title:before {
+    content: '●';
+    color: white;
+    margin-right: 8px;
+}
+
+.embed-pdf-container a {
+    display: none;
+}
+
+.embed-pdf-container {
+    margin: 1em 0em 0.5em 0em;
+}
+
+.pdf-paginator {
+    text-align: center;
+}
+
+.pdf-paginator button {
+    background: none;
+}
+
+.pdf-page-info {
+    text-align: center;
+}
+
+.img-article {
+    text-align: center;
+    width: 80%;
+    margin: 1em auto;
+    border: #eeeeee 1px solid;
+}
+
+.pdf-source {
+    position: absolute; 
+    right: 1;
+    margin-left: 1em;
+    margin-top: 0.1em;
+}
+
+.navbar-nav {
+    margin-top: 12.5px;
+}

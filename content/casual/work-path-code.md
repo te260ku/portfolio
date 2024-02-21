@@ -4,6 +4,7 @@ title:  "Path-Code"
 img: path-code.png
 categories: [casual]
 date: "2021-07-01"
+tags: [Interface]
 ---
 
 定められたルートを特定の移動方法で辿ることで、隠蔽された情報にアクセスするシステムを開発した。

@@ -15,7 +15,7 @@
               <ul class="tag-cloud">
 
               <li>
-                {{ with .Params.categories }}<div>Categories:{{ range . }} <a href="/categories/{{ . }}/">{{ . }}</a>{{ end }}</div>{{ end }}
+                {{ with .Params.categories }}<div>Categories:{{ range . }} <a href="/categories/{{ . }}/">{{ . | upper}}</a>{{ end }}</div>{{ end }}
               </li>
 
               <!-- <br> -->

@@ -4,6 +4,7 @@ title:  "θ館ワールド"
 img: theta.png
 categories: [casual]
 date: "2020-04-20"
+tags: []
 ---
 
 大学の講義棟をバーチャルSNS「[cluster](https://cluster.mu/)」にて再現した。

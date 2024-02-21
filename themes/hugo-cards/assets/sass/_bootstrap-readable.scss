@@ -1590,8 +1590,8 @@ pre code {
 .container {
   margin-right: auto;
   margin-left: auto;
-  padding-left: 20px;
-  padding-right: 20px;
+  // padding-left: 20px;
+  // padding-right: 20px;
 }
 @media (min-width: 768px) {
   .container {
@@ -5476,7 +5476,8 @@ button.list-group-item-danger.active:focus {
   margin-bottom: 0;
   font-size: 18px;
   color: inherit;
-  padding: 20px 0px 10px 0px;
+  padding: 15px 0px 10px 0px;
+  // height: 3.7em;
 }
 .panel-title > a,
 .panel-title > small,
@@ -6765,7 +6766,8 @@ button.close {
   margin-right: 0;
 }
 .navbar-nav > li > a {
-  margin: 12.5px 6px;
+  // margin: 12.5px 6px;
+  // margin: 0px 6px;
   padding: 8px 12px;
   border: 1px solid transparent;
   border-radius: 4px;

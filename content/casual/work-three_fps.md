@@ -4,6 +4,7 @@ title: Cosmo Shooter
 img: cosmo_shooter.png
 categories: [casual]
 date: 2019-12-01
+tags: [Game]
 ---
 
 銀河に散らばる宇宙ゴミを撃ち落とすブラウザベースのFPS。

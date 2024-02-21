@@ -4,6 +4,7 @@ title:  "Piropiro User Interface"
 img: pui.png
 categories: [research]
 date: "2020-07-01"
+tags: [XR, Interface, Haptics]
 ---
 
 吹き戻しを用いて息の検出を行うユーザーインターフェースと、それを用いて身体部位や息に対する拡張感を提示するアプリケーションを開発した。

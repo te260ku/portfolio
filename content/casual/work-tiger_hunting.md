@@ -4,6 +4,7 @@ title: Tiger Hunting
 img: tiger_hunting.png
 categories: [casual]
 date: 2019-10-01
+tags: [XR, Game]
 ---
 
 闇夜に身を潜める野生のトラを駆除するVRシューティングゲーム。3Dプリントした実寸大のライフルを持ちながら体験する。
