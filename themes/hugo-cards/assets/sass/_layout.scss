@@ -149,6 +149,10 @@ footer {
     margin: 1em 0em;
 }
 
+.post-content p {
+    margin: 1em 0em;
+}
+
 
 .pack {
     display: -webkit-inline-flex;
@@ -265,6 +269,14 @@ article.post {
     content: '●';
     color: white;
     margin-right: 8px;
+}
+
+.sort-title-sentence {
+    display: inline-block;
+    font-size: 0.9em;
+    color: gray;
+    vertical-align: middle;
+    margin-bottom: 6px;
 }
 
 .embed-pdf-container a {

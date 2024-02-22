@@ -4,7 +4,7 @@ title:  "両眼視野闘争による視覚的なマスキングを用いたRedir
 img: br.png
 categories: [research]
 date: "2021-07-29"
-tags: [XR, Illusion, Psychology]
+tags: [XR, Illusion, Psychology, Unity]
 ---
 
 

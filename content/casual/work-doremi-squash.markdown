@@ -2,9 +2,9 @@
 layout: post
 title:  "Doremi Squash"
 img: doremi_squash.png
-categories: [research]
+categories: [casual]
 date: "2020-01-01"
-tags: [XR, Game, Magic Leap, Interactive]
+tags: [XR, Game, Magic Leap, Unity]
 ---
 
 空間の幾何情報を活用したインタラクティブなMRゲーム。部屋の壁や床にボールを当ててスカッシュをプレイする。

@@ -4,10 +4,10 @@ title:  "θ館ワールド"
 img: theta.png
 categories: [casual]
 date: "2020-04-20"
-tags: []
+tags: [Unity]
 ---
 
-大学の講義棟をバーチャルSNS「[cluster](https://cluster.mu/)」にて再現した。
+コロナウイルスによる遠隔授業の広まりを受け、大学の講義棟をバーチャルSNS「[cluster](https://cluster.mu/)」にて再現した。
 
 
 <!--more-->

@@ -4,7 +4,7 @@ title:  "MR環境の映像に調和するベクション誘発刺激の設計と
 img: vection.png
 categories: [research]
 date: "2022-10-28"
-tags: [XR, Illusion]
+tags: [XR, Illusion, Psychology, Unity]
 ---
 
 複合現実（MR）環境での利用を想定した物理空間の風景に調和するベクション誘発刺激の設計と検証を行った。
@@ -16,7 +16,7 @@ tags: [XR, Illusion]
 <!-- その結果、透明度の上昇はベクションによる運動感覚の強度を保ちつつも背景の視認性を高める可能性が示された。 -->
 
 # Publication
-- 奥谷 哲郎, 中西 泰人, CREST「共生インタラクション」第12 回領域会議
+- Tetsuro Okuya, Yasuto Nakanishi. (2023). Effect of Visual Stimulus Transparency and Size on Roll Circular Vection. CREST「共生インタラクション」第12回領域会議.
 
 
 

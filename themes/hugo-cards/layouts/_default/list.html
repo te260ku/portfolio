@@ -5,7 +5,7 @@
   <div class="row">
     <div class="col-md-8 col-md-offset-2 text-center profile">
     
-      <img src="{{ .Site.BaseURL }}images/avator.png" class="img-circle profile-image" alt="...">
+      <img src="{{ .Site.BaseURL }}images/avator-real.png" class="img-circle profile-image" alt="...">
     
       <!-- <h1 class="top-title">Tetsuro Okuya</h1>
       {{with  .Site.Params.twitter }}
@@ -31,13 +31,20 @@
 
  
   {{ $c := "research" }}
+  {{ $csentence := "あああ" }}
+
+
+
   {{ if eq .Section "research" }}
   {{ $c = "research" }}
+
   {{else if eq .Section "casual"}}
   {{ $c = "casual" }}
+
   {{else if eq .Section "job"}}
   {{ $c = "job" }}
   {{ end }}
+
   
           <div class="category-text">
             
@@ -45,6 +52,17 @@
             <!-- <p style="display:inline; font-size: 20px; padding-left: 10px;">- {{upper $c }} -</p> -->
             <!-- <div class="alert alert-primary" style="display:inline; font-size: 20px; padding-left: 10px;">{{upper $c }}</div> -->
             <div class="sort-title" style="margin-left: 10px;">{{upper $c }}</div>
+            
+            
+            {{if eq .Section "casual"}}
+            <div class="sort-title-sentence" style="margin-left: 10px;">趣味で開発したアプリケーションやデバイスです</div>
+            {{else if eq .Section "job"}}
+            <div class="sort-title-sentence" style="margin-left: 10px;">仕事で開発した成果物です</div>
+            {{else}}
+            <div class="sort-title-sentence" style="margin-left: 10px;">これまでに行った研究活動です</div>
+            {{ end }}
+
+            <!-- <div class="sort-title-sentence" style="margin-left: 10px;">{{ $csentence }}</div> -->
             <div style="padding-top: 15px;">
               <span class="badge bg-secondary"> Category <i class="fa fa-play" style="font-size: 0.7em;"></i> </span>
               <a href="{{ .Site.BaseURL }}" style="padding-left: 10px;">Research</a>

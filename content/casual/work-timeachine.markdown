@@ -4,8 +4,9 @@ title:  "TimeAchine"
 img: timeachine.png
 categories: [casual]
 date: "2020-03-01"
-tags: []
+tags: [Electronics]
 ---
+
 人間の歩行動作を行うSCARA型ロボットを用いて、時間と空間からの脱却を表現する。
 
 
