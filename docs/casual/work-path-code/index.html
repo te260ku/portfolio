@@ -8,14 +8,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>Path-Code - Tetsuro Okuya</title>
-<meta name="description" content="定められたルートを特定の移動方法で辿ることで、隠蔽された情報にアクセスするシステムを開発した。
+<meta name="description" content="定められたルートを特定の移動方法で辿ることで、隠蔽された情報にアクセスする暗号化システムを開発した。
 "/>
 <meta name="robots" content="noodp"/>
 <link rel="canonical" href="https://te260ku.github.io/portfolio/casual/work-path-code/" />
 
 
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:description" content="定められたルートを特定の移動方法で辿ることで、隠蔽された情報にアクセスするシステムを開発した。
+<meta name="twitter:description" content="定められたルートを特定の移動方法で辿ることで、隠蔽された情報にアクセスする暗号化システムを開発した。
 " />
 <meta name="twitter:title" content="Path-Code - Tetsuro Okuya" />
 <meta name="twitter:site" content="" />
@@ -24,7 +24,7 @@
 
 <meta property="og:type" content="article" />
 <meta content="Path-Code - Tetsuro Okuya" property="og:title">
-<meta content="定められたルートを特定の移動方法で辿ることで、隠蔽された情報にアクセスするシステムを開発した。
+<meta content="定められたルートを特定の移動方法で辿ることで、隠蔽された情報にアクセスする暗号化システムを開発した。
 " property="og:description">
 <meta property="og:url" content="https://te260ku.github.io/portfolio/casual/work-path-code/" />
 <meta property="og:site_name" content="Tetsuro Okuya" />
@@ -43,7 +43,7 @@
     "genre": "casual",  
     "url": "https:\/\/te260ku.github.io\/portfolio\/casual\/work-path-code\/",
     "datePublished": "2021-07-01 00:00:00 \u002b0000 UTC",
-    "description": "定められたルートを特定の移動方法で辿ることで、隠蔽された情報にアクセスするシステムを開発した。\n",
+    "description": "定められたルートを特定の移動方法で辿ることで、隠蔽された情報にアクセスする暗号化システムを開発した。\n",
     "author": {
         "@type": "Person",
         "name": ""
@@ -93,7 +93,9 @@
           <li class="nav-item"><a href="https://te260ku.github.io/portfolio/pages/about/">About</a></li>
           <li class="nav-item"><a href="https://te260ku.github.io/portfolio/">Works</a></li>
           
-
+          <li class="nav-item">
+            <a href="https://github.com/te260ku"><div class="social-icon"><i class="fa fa-github"></i></div></a>
+          </li>
           
 
           <li class="nav-item">
@@ -130,7 +132,41 @@
           <header class="post-header text-center">
             <h1 class="post-title pt-3" itemprop="name headline">Path-Code</h1>
             
+
+            <div class= "panel sidebar-menu">
+              <ul class="tag-cloud">
+
+              <li>
+                <div>Categories: <a href="https://te260ku.github.io/portfolio/categories/casual/">CASUAL</a></div>
+              </li>
+
+              
+              <li>
+              
+              <div>
+                Tags: 
+                <a href='https://te260ku.github.io/portfolio/tags/interface/'>
+                  <i class="fa fa-tag"></i> Interface
+                </a>
                  
+                <a href='https://te260ku.github.io/portfolio/tags/javascript/'>
+                  <i class="fa fa-tag"></i> Javascript
+                </a>
+                
+              </div>
+              
+              </li>
+              
+              </ul>
+            </div>
+
+    
+            
+                 
+
+
+
+
           </header>
           <div class="row">
             <div class="col-md-6 col-md-offset-3">
@@ -140,17 +176,295 @@
              
           </div>
           <div class="post-content" itemprop="articleBody">
-            <p>定められたルートを特定の移動方法で辿ることで、隠蔽された情報にアクセスするシステムを開発した。</p>
-<p>本プロジェクトでは、従来の位置情報に時間軸を取り入れることを考えた。このコンセプトは2つの重要な要素を内包しており、第一にすべての位置情報にはそこに至るまでに辿ってきた道が存在すること、第二に位置情報の変化にはそれに要した歩く、走るなどの動作が付随するということである。位置情報がもつこれらの要素をふまえ、定められたルートを特定の移動方法で辿ることで、隠蔽された情報にアクセスするシステムを開発した。</p>
-<h1 id="repository">Repository</h1>
-<ul>
-<li><a href="https://github.com/te260ku/path-code">https://github.com/te260ku/path-code</a></li>
-</ul>
+            <p>定められたルートを特定の移動方法で辿ることで、隠蔽された情報にアクセスする暗号化システムを開発した。</p>
+<p>あらゆる位置情報は暗黙的に次の2つの情報を有している。第一にすべての位置情報にはそこに至るまでに辿ってきた経路が存在する。第二に位置情報の変化にはそれに要した歩く、走るなどの動作が付随するということである。
+これらの位置情報がもつ要素をふまえ、従来の位置情報システムに時間軸と意味性を取り入れた。</p>
+<p>システムはセンシング部、データ共有部、情報提示部から構成されている。
+センシング部では、スマートフォンに内臓された加速度センサーの値と、GPSによる位置情報を取得する。
+データ共有部では、サーバー側で受信したスマートフォンのセンシングデータの処理を行う。加速度の値をランダムツリーによって分類して、ユーザーの行動（静止、歩く、走る、カメラで撮影）を判別する。また、位置情報をもとにユーザーが正しい経路を辿っているかどうかを確認する。
+情報提示部では、地図の表示と暗号化された情報の提示を行う。暗号化された情報はAR.jsを用いることでAR表示も可能。</p>
+<figure class="img-article"><img src="https://te260ku.github.io/portfolio/images/path-code/user-flow.png"/>
+</figure>
+
+<figure class="img-article"><img src="https://te260ku.github.io/portfolio/images/path-code/system.png"/>
+</figure>
+
+<h1 id="movie">Movie</h1>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/tnMKA6FpaCg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
+
+<h1 id="presentation">Presentation</h1>
+
+
+<script type="text/javascript" src='https://te260ku.github.io/portfolio/js/pdf-js/build/pdf.js'></script>
+
+<style>
+  #embed-pdf-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 20vh;
+     
+  }
+  
+  .pdf-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  #the-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  
+  .pdf-loadingWrapper {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 350px;
+  }
+  
+  .pdf-loading {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 3px solid #d2d0d0;;
+    border-radius: 50%;
+    border-top-color: #383838;
+    animation: spin 1s ease-in-out infinite;
+    -webkit-animation: spin 1s ease-in-out infinite;
+  }
+  
+  
+  
+  
+  
+  #overlayText {
+    word-wrap: break-word;
+    display: grid;
+    justify-content: end;
+  }
+  
+  #overlayText a {
+    position: relative;
+    top: 10px;
+    right: 4px;
+    color: #000;
+    margin: auto;
+    background-color: #eeeeee;
+    padding: 0.3em 1em;
+    border: solid 2px;
+    border-radius: 12px;
+    border-color: #00000030;
+    text-decoration: none;
+  }
+  
+  #overlayText svg {
+    height: clamp(1em, 2vw, 1.4em);
+    width:  clamp(1em, 2vw, 1.4em);
+  }
+  
+  
+  
+  @keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  @-webkit-keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  </style><div class="embed-pdf-container" id="embed-pdf-container-a358c43c">
+    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-a358c43c">
+        <div class="pdf-loading" id="pdf-loading-a358c43c"></div>
+    </div>
+    <div id="overlayText">
+      <a href="../pdf/path-code.pdf" aria-label="Download" download>
+        <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+            <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
+        </svg>
+      </a>
+    </div>
+    <canvas class="pdf-canvas" id="pdf-canvas-a358c43c"></canvas>
+</div>
+
+<div class="pdf-paginator" id="pdf-paginator-a358c43c">
+    <button id="pdf-prev-a358c43c"><i class="fa fa-chevron-left"></i></button>
+    <button id="pdf-next-a358c43c"><i class="fa fa-chevron-right"></i></button>
+    
+    <a class="pdf-source" id="pdf-source-a358c43c" href="../pdf/path-code.pdf">[PDF]</a>
+</div>
+<div class="pdf-page-info">
+  <span>
+    <span class="pdf-pagenum" id="pdf-pagenum-a358c43c"></span> / <span class="pdf-pagecount" id="pdf-pagecount-a358c43c"></span>
+  </span>
+</div>
+
+
+<noscript>
+View the PDF file <a class="pdf-source" id="pdf-source-noscript-a358c43c" href="../pdf/path-code.pdf">here</a>.
+</noscript>
+
+<script type="text/javascript">
+    (function(){
+    var url = '..\/pdf\/path-code.pdf';
+
+    var hidePaginator = "" === "true";
+    var hideLoader = "" === "true";
+    var selectedPageNum = parseInt("") || 1;
+
+    
+    var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == '')
+      pdfjsLib.GlobalWorkerOptions.workerSrc = "https:\/\/te260ku.github.io\/portfolio\/" + 'js/pdf-js/build/pdf.worker.js';
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById('pdf-canvas-a358c43c'),
+        ctx = canvas.getContext('2d'),
+        paginator = document.getElementById("pdf-paginator-a358c43c"),
+        loadingWrapper = document.getElementById('pdf-loadingWrapper-a358c43c');
+
+
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById('pdf-pagenum-a358c43c').textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = 'none';
+      canvas.style.display = 'block';
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = 'flex';
+      canvas.style.display = 'none';
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = 'block';
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum <= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById('pdf-prev-a358c43c').addEventListener('click', onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum >= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById('pdf-next-a358c43c').addEventListener('click', onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById('pdf-pagecount-a358c43c').textContent = numPages;
+
+      
+      if(pageNum > numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+</script>
+
+<h1 id="repository">Repository</h1>
+<ul>
+<li><a href="https://github.com/te260ku/path-code">https://github.com/te260ku/path-code</a></li>
+</ul>
           </div>
+
+
+
+          
+
+
+
+
+
+
           </div>
           </div>
       </div>

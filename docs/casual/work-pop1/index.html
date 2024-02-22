@@ -8,14 +8,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>POP1 Kill Extractor - Tetsuro Okuya</title>
-<meta name="description" content="VRゲーム「POPULATION: ONE」のプレイ映像から、自動的にキルシーンを抽出してキル集を作成するプログラム。
+<meta name="description" content="VRゲーム「POPULATION: ONE」のプレイ映像から、自動的にキルシーンを抽出してキル集を作成するツール。
 "/>
 <meta name="robots" content="noodp"/>
 <link rel="canonical" href="https://te260ku.github.io/portfolio/casual/work-pop1/" />
 
 
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:description" content="VRゲーム「POPULATION: ONE」のプレイ映像から、自動的にキルシーンを抽出してキル集を作成するプログラム。
+<meta name="twitter:description" content="VRゲーム「POPULATION: ONE」のプレイ映像から、自動的にキルシーンを抽出してキル集を作成するツール。
 " />
 <meta name="twitter:title" content="POP1 Kill Extractor - Tetsuro Okuya" />
 <meta name="twitter:site" content="" />
@@ -24,7 +24,7 @@
 
 <meta property="og:type" content="article" />
 <meta content="POP1 Kill Extractor - Tetsuro Okuya" property="og:title">
-<meta content="VRゲーム「POPULATION: ONE」のプレイ映像から、自動的にキルシーンを抽出してキル集を作成するプログラム。
+<meta content="VRゲーム「POPULATION: ONE」のプレイ映像から、自動的にキルシーンを抽出してキル集を作成するツール。
 " property="og:description">
 <meta property="og:url" content="https://te260ku.github.io/portfolio/casual/work-pop1/" />
 <meta property="og:site_name" content="Tetsuro Okuya" />
@@ -43,7 +43,7 @@
     "genre": "casual",  
     "url": "https:\/\/te260ku.github.io\/portfolio\/casual\/work-pop1\/",
     "datePublished": "2022-09-28 00:00:00 \u002b0000 UTC",
-    "description": "VRゲーム「POPULATION: ONE」のプレイ映像から、自動的にキルシーンを抽出してキル集を作成するプログラム。\n",
+    "description": "VRゲーム「POPULATION: ONE」のプレイ映像から、自動的にキルシーンを抽出してキル集を作成するツール。\n",
     "author": {
         "@type": "Person",
         "name": ""
@@ -93,7 +93,9 @@
           <li class="nav-item"><a href="https://te260ku.github.io/portfolio/pages/about/">About</a></li>
           <li class="nav-item"><a href="https://te260ku.github.io/portfolio/">Works</a></li>
           
-
+          <li class="nav-item">
+            <a href="https://github.com/te260ku"><div class="social-icon"><i class="fa fa-github"></i></div></a>
+          </li>
           
 
           <li class="nav-item">
@@ -130,7 +132,45 @@
           <header class="post-header text-center">
             <h1 class="post-title pt-3" itemprop="name headline">POP1 Kill Extractor</h1>
             
+
+            <div class= "panel sidebar-menu">
+              <ul class="tag-cloud">
+
+              <li>
+                <div>Categories: <a href="https://te260ku.github.io/portfolio/categories/casual/">CASUAL</a></div>
+              </li>
+
+              
+              <li>
+              
+              <div>
+                Tags: 
+                <a href='https://te260ku.github.io/portfolio/tags/interface/'>
+                  <i class="fa fa-tag"></i> Interface
+                </a>
                  
+                <a href='https://te260ku.github.io/portfolio/tags/image-processing/'>
+                  <i class="fa fa-tag"></i> Image Processing
+                </a>
+                 
+                <a href='https://te260ku.github.io/portfolio/tags/python/'>
+                  <i class="fa fa-tag"></i> Python
+                </a>
+                
+              </div>
+              
+              </li>
+              
+              </ul>
+            </div>
+
+    
+            
+                 
+
+
+
+
           </header>
           <div class="row">
             <div class="col-md-6 col-md-offset-3">
@@ -140,13 +180,33 @@
              
           </div>
           <div class="post-content" itemprop="articleBody">
-            <p>VRゲーム「POPULATION: ONE」のプレイ映像から、自動的にキルシーンを抽出してキル集を作成するプログラム。</p>
-<p><img src="https://i.gyazo.com/57cda7c3b1fee0a4930b65c68d68504d.png" alt=""></p>
+            <p>VRゲーム「POPULATION: ONE」のプレイ映像から、自動的にキルシーンを抽出してキル集を作成するツール。</p>
+<p>「POPULATION: ONE」ではキルが発生した際に、視野中のUIにそれを示す文字列が表示され、効果音が再生される。
+しかし、VRゲームのUIの位置や向きは頭部の運動にしたがって変化するため、デスクトップゲームのように画面中の固定された位置に常にログが表示されるわけではなく、画像処理によるアプローチでは偽陰性が多くなってしまうという問題があった。
+そこで、第一段階として音声処理によるキル時の効果音検出を行い、第二段階としてOCRを使って文字列を検出する画像処理を行うアプローチを採用した。
+音声処理は画像処理と比較して偽陽性が多い。最初に大まかにキルシーンとして疑われる場面をフィルタリングしたうえで、画像処理を使って細かな判別を行うことで、先述の問題の解消を試みた。</p>
+<h1 id="movie">Movie</h1>
+<p>本ツールを使って自動生成されたキル集
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/KIDa9pQgZP4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+</p>
 <h1 id="repository">Repository</h1>
 <ul>
 <li><a href="https://github.com/te260ku/pop1-kill-extractor">https://github.com/te260ku/pop1-kill-extractor</a></li>
 </ul>
           </div>
+
+
+
+          
+
+
+
+
+
+
           </div>
           </div>
       </div>

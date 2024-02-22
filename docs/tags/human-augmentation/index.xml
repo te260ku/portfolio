@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Human Augmentation on Tetsuro Okuya</title>
+    <link>https://te260ku.github.io/portfolio/tags/human-augmentation/</link>
+    <description>Recent content in Human Augmentation on Tetsuro Okuya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://te260ku.github.io/portfolio/tags/human-augmentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>マルチタスク環境下における半自律型ロボットの監視支援インターフェース</title>
+      <link>https://te260ku.github.io/portfolio/work/work-teleoperation/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/work/work-teleoperation/</guid>
+      <description>&lt;p&gt;遠隔地のロボットの“ながら”テレオペレーションを支援するインターフェース。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>匂いの回路</title>
+      <link>https://te260ku.github.io/portfolio/work/work-fragrance-circuit/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/work/work-fragrance-circuit/</guid>
+      <description>&lt;p&gt;嗅覚能力の擬似的な拡張を体験するマルチモーダルコンテンツを制作した。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

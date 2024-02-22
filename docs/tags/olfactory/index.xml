@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olfactory on Tetsuro Okuya</title>
+    <link>https://te260ku.github.io/portfolio/tags/olfactory/</link>
+    <description>Recent content in Olfactory on Tetsuro Okuya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://te260ku.github.io/portfolio/tags/olfactory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>匂いの回路</title>
+      <link>https://te260ku.github.io/portfolio/work/work-fragrance-circuit/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/work/work-fragrance-circuit/</guid>
+      <description>&lt;p&gt;嗅覚能力の擬似的な拡張を体験するマルチモーダルコンテンツを制作した。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>恋風</title>
+      <link>https://te260ku.github.io/portfolio/casual/work-koikaze/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/casual/work-koikaze/</guid>
+      <description>&lt;p&gt;いつでもどこでも誰かとすれ違う感覚を味わえる装置。足音や匂いをインタラクティブに提示することによって、視覚に依存しないバーチャルなすれ違い体験が可能。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
