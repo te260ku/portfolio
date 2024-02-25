@@ -6,61 +6,61 @@
     <description>Recent content in Electronics on Tetsuro Okuya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://te260ku.github.io/portfolio/tags/electronics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Gomi Jockey</title>
-      <link>https://te260ku.github.io/portfolio/casual/work-gomi-jockey/</link>
-      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/casual/work-gomi-jockey/</guid>
-      <description>&lt;p&gt;入れるゴミの種類によって音楽のテンポが変わるDJゴミ箱。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>呼吸するダンボール</title>
-      <link>https://te260ku.github.io/portfolio/casual/work-cardboard/</link>
-      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/casual/work-cardboard/</guid>
-      <description>&lt;p&gt;自分の呼吸に同調して運動するダンボール&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>匂いの回路</title>
-      <link>https://te260ku.github.io/portfolio/work/work-fragrance-circuit/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/work/work-fragrance-circuit/</guid>
-      <description>&lt;p&gt;嗅覚能力の擬似的な拡張を体験するマルチモーダルコンテンツを制作した。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Piropiro User Interface</title>
-      <link>https://te260ku.github.io/portfolio/work/work-pui/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/work/work-pui/</guid>
-      <description>&lt;p&gt;吹き戻しを用いて息の検出を行うユーザーインターフェースと、それを用いて身体部位や息に対する拡張感を提示するアプリケーションを開発した。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TimeAchine</title>
-      <link>https://te260ku.github.io/portfolio/casual/work-timeachine/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/casual/work-timeachine/</guid>
-      <description>&lt;p&gt;人間の歩行動作を行うSCARA型ロボットを用いて、時間と空間からの脱却を表現する。&lt;/p&gt;</description>
-    </item>
     <item>
       <title>恋風</title>
       <link>https://te260ku.github.io/portfolio/casual/work-koikaze/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/casual/work-koikaze/</guid>
       <description>&lt;p&gt;いつでもどこでも誰かとすれ違う感覚を味わえる装置。足音や匂いをインタラクティブに提示することによって、視覚に依存しないバーチャルなすれ違い体験が可能。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Emotional Ice</title>
       <link>https://te260ku.github.io/portfolio/casual/work-emotional-ice/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/casual/work-emotional-ice/</guid>
       <description>&lt;p&gt;表情によって尖ったり凹んだりする製氷モーダル。IoTにおける食べることによるインタラクションの可能性を検証した。&lt;/p&gt;</description>
     </item>
     <item>
+      <title>TimeAchine</title>
+      <link>https://te260ku.github.io/portfolio/casual/work-timeachine/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/casual/work-timeachine/</guid>
+      <description>&lt;p&gt;人間の歩行動作を行うSCARA型ロボットを用いて、時間と空間からの脱却を表現する。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>匂いの回路</title>
+      <link>https://te260ku.github.io/portfolio/work/work-fragrance-circuit/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/work/work-fragrance-circuit/</guid>
+      <description>&lt;p&gt;嗅覚能力の擬似的な拡張を体験するマルチモーダルコンテンツを制作した。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>呼吸するダンボール</title>
+      <link>https://te260ku.github.io/portfolio/casual/work-cardboard/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/casual/work-cardboard/</guid>
+      <description>&lt;p&gt;自分の呼吸に同調して運動するダンボール&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Piropiro User Interface</title>
+      <link>https://te260ku.github.io/portfolio/work/work-pui/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/work/work-pui/</guid>
+      <description>&lt;p&gt;吹き戻しを用いて息の検出を行うユーザーインターフェースと、それを用いて身体部位や息に対する拡張感を提示するアプリケーションを開発した。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gomi Jockey</title>
+      <link>https://te260ku.github.io/portfolio/casual/work-gomi-jockey/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/casual/work-gomi-jockey/</guid>
+      <description>&lt;p&gt;入れるゴミの種類によって音楽のテンポが変わるDJゴミ箱。&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>ねこ放題</title>
       <link>https://te260ku.github.io/portfolio/work/work-neko/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/work/work-neko/</guid>
       <description>&lt;p&gt;VR空間で猫に触れたときの触感を手の平全体に対して提示する装置。バーチャル空間内の動物とふれあうコンテンツに応用した。&lt;/p&gt;</description>
     </item>

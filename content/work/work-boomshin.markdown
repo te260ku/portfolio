@@ -3,7 +3,7 @@ layout: post
 title:  "Boomshin: 触覚提示の有無を時空間的に変動させるVRゲーム体験の評価"
 img: boomshin.png
 categories: [research]
-date: "2022-09-28"
+date: "2024-01-08"
 tags: [XR, Haptics, Robot, Unity]
 ---
 

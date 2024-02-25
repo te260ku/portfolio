@@ -3,7 +3,7 @@ layout: post
 title:  "ねこ放題"
 img: neko.png
 categories: [research]
-date: "2019-08-01"
+date: "2024-01-01"
 tags: [XR, Illusion, Haptics, Unity, Electronics]
 ---
 VR空間で猫に触れたときの触感を手の平全体に対して提示する装置。バーチャル空間内の動物とふれあうコンテンツに応用した。

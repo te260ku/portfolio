@@ -3,7 +3,7 @@ layout: post
 title:  "MR環境の映像に調和するベクション誘発刺激の設計と検証"
 img: vection.png
 categories: [research]
-date: "2022-10-28"
+date: "2024-01-09"
 tags: [XR, Illusion, Psychology, Unity]
 ---
 

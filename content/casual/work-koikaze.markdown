@@ -2,7 +2,7 @@
 title:  "恋風"
 img: koikaze.png
 categories: [casual]
-date: "2019-11-01"
+date: "2024-01-11"
 tags: [Illusion, Olfactory, Electronics, Python]
 ---
 

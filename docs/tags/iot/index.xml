@@ -6,12 +6,12 @@
     <description>Recent content in IoT on Tetsuro Okuya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://te260ku.github.io/portfolio/tags/iot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emotional Ice</title>
       <link>https://te260ku.github.io/portfolio/casual/work-emotional-ice/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/casual/work-emotional-ice/</guid>
       <description>&lt;p&gt;表情によって尖ったり凹んだりする製氷モーダル。IoTにおける食べることによるインタラクションの可能性を検証した。&lt;/p&gt;</description>
     </item>

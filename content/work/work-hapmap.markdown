@@ -3,7 +3,7 @@ layout: post
 title:  "移動ロボットを用いた広域・高解像度な凹凸地図の構築"
 img: hapmap.png
 categories: [research]
-date: "2022-07-29"
+date: "2024-01-04"
 tags: [Haptics, Robot, XR, ROS, Unity, Python]
 ---
 

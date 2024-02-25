@@ -3,7 +3,7 @@ layout: post
 title:  "呼吸するダンボール"
 img: cardboard.png
 categories: [casual]
-date: "2022-03-28"
+date: "2024-01-05"
 tags: [Electronics]
 ---
 

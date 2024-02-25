@@ -3,7 +3,7 @@ layout: post
 title:  "Piropiro User Interface"
 img: pui.png
 categories: [research]
-date: "2020-07-01"
+date: "2024-01-02"
 tags: [XR, Interface, Haptics, Unity, Electronics]
 ---
 

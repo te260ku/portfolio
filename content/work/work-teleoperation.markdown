@@ -3,7 +3,7 @@ layout: post
 title:  "マルチタスク環境下における半自律型ロボットの監視支援インターフェース"
 img: teleoperation.png
 categories: [research]
-date: "2022-09-27"
+date: "2024-01-05"
 tags: [XR, Human Augmentation, Interface, Unity]
 ---
 

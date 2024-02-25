@@ -3,7 +3,7 @@ layout: post
 title:  "匂いの回路"
 img: fragrance-circuit.png
 categories: [research]
-date: "2020-08-01"
+date: "2024-01-07"
 tags: [Illusion, Human Augmentation, Interactive, Olfactory, Unity, Electronics]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Gomi Jockey"
 img: gomi_jockey.png
 categories: [casual]
-date: "2022-03-28"
+date: "2024-01-01"
 tags: [Electronics]
 ---
 

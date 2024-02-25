@@ -3,7 +3,7 @@ layout: post
 title:  "両眼視野闘争による視覚的なマスキングを用いたRedirected Walking"
 img: br.png
 categories: [research]
-date: "2021-07-29"
+date: "2024-01-03"
 tags: [XR, Illusion, Psychology, Unity]
 ---
 

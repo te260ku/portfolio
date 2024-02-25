@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Oto-Kabe"
-img: pop1.png
+img: oto-kabe.png
 categories: [casual]
-date: "2022-09-28"
+date: "2024-01-16"
 tags: [XR, Game, Unity, Haptics]
 ---
 
@@ -16,6 +16,8 @@ tags: [XR, Game, Unity, Haptics]
 手のトラッキングにはMeta Quest 3のハンドトラッキング機能を使用。
 静的物体を使用した自然な触覚フィードバックを提供できるだけでなく、インタラクションを通じて空間の意味性を更新する。
 
+# Movie
+{{<youtube "dHpKGcckNuQ">}}
 
 # Repository
 - https://github.com/te260ku/oto-kabe

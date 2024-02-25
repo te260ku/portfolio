@@ -3,7 +3,7 @@ layout: post
 title:  "POP1 Kill Extractor"
 img: pop1.png
 categories: [casual]
-date: "2022-09-28"
+date: "2024-01-15"
 tags: [Interface, Image Processing, Python]
 ---
 

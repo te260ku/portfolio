@@ -6,19 +6,19 @@
     <description>Recent content in Robot on Tetsuro Okuya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://te260ku.github.io/portfolio/tags/robot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Boomshin: 触覚提示の有無を時空間的に変動させるVRゲーム体験の評価</title>
       <link>https://te260ku.github.io/portfolio/work/work-boomshin/</link>
-      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/work/work-boomshin/</guid>
       <description>&lt;p&gt;VR空間における触覚提示の有無を時空間的に切り替えることがVRゲーム体験に及ぼす影響を調査した。&lt;/p&gt;</description>
     </item>
     <item>
       <title>移動ロボットを用いた広域・高解像度な凹凸地図の構築</title>
       <link>https://te260ku.github.io/portfolio/work/work-hapmap/</link>
-      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/work/work-hapmap/</guid>
       <description>&lt;p&gt;移動ロボットとVIOを用いて、地面の数mm程度の凹凸の情報を含む触覚地図を構築する触覚センシングシステムを開発した。&lt;/p&gt;</description>
     </item>

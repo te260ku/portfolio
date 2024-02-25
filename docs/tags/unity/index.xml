@@ -6,103 +6,103 @@
     <description>Recent content in Unity on Tetsuro Okuya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://te260ku.github.io/portfolio/tags/unity/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>MR環境の映像に調和するベクション誘発刺激の設計と検証</title>
-      <link>https://te260ku.github.io/portfolio/work/work-vection/</link>
-      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/work/work-vection/</guid>
-      <description>&lt;p&gt;複合現実（MR）環境での利用を想定した物理空間の風景に調和するベクション誘発刺激の設計と検証を行った。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Boomshin: 触覚提示の有無を時空間的に変動させるVRゲーム体験の評価</title>
-      <link>https://te260ku.github.io/portfolio/work/work-boomshin/</link>
-      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/work/work-boomshin/</guid>
-      <description>&lt;p&gt;VR空間における触覚提示の有無を時空間的に切り替えることがVRゲーム体験に及ぼす影響を調査した。&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Oto-Kabe</title>
       <link>https://te260ku.github.io/portfolio/casual/work-oto-kabe/</link>
-      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/casual/work-oto-kabe/</guid>
       <description>&lt;p&gt;身の回りの机や壁を叩いて遊ぶARリズムゲーム。物理空間のあらゆる平面をインタラクト可能な物体に書き換えてゲームに取り込む。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unity ROS Action Planner</title>
       <link>https://te260ku.github.io/portfolio/casual/work-unity-ros-planner/</link>
-      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/casual/work-unity-ros-planner/</guid>
       <description>&lt;p&gt;UnityからROSのトピックに任意のメッセージを送信するためのインターフェースを実装した。&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Doremi Squash</title>
+      <link>https://te260ku.github.io/portfolio/casual/work-doremi-squash/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/casual/work-doremi-squash/</guid>
+      <description>&lt;p&gt;空間の幾何情報を活用したインタラクティブなMRゲーム。部屋の壁や床にボールを当ててスカッシュをプレイする。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MR環境の映像に調和するベクション誘発刺激の設計と検証</title>
+      <link>https://te260ku.github.io/portfolio/work/work-vection/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/work/work-vection/</guid>
+      <description>&lt;p&gt;複合現実（MR）環境での利用を想定した物理空間の風景に調和するベクション誘発刺激の設計と検証を行った。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>θ館ワールド</title>
+      <link>https://te260ku.github.io/portfolio/casual/work-theta/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/casual/work-theta/</guid>
+      <description>&lt;p&gt;コロナウイルスによる遠隔授業の広まりを受け、大学の講義棟をバーチャルSNS「&lt;a href=&#34;https://cluster.mu/&#34;&gt;cluster&lt;/a&gt;」にて再現した。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Boomshin: 触覚提示の有無を時空間的に変動させるVRゲーム体験の評価</title>
+      <link>https://te260ku.github.io/portfolio/work/work-boomshin/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/work/work-boomshin/</guid>
+      <description>&lt;p&gt;VR空間における触覚提示の有無を時空間的に切り替えることがVRゲーム体験に及ぼす影響を調査した。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tiger Hunting</title>
+      <link>https://te260ku.github.io/portfolio/casual/work-tiger-hunting/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/casual/work-tiger-hunting/</guid>
+      <description>&lt;p&gt;闇夜に身を潜める野生のトラを駆除するVRシューティングゲーム。3Dプリントした実寸大のライフルを持ちながら体験する。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>匂いの回路</title>
+      <link>https://te260ku.github.io/portfolio/work/work-fragrance-circuit/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/work/work-fragrance-circuit/</guid>
+      <description>&lt;p&gt;嗅覚能力の擬似的な拡張を体験するマルチモーダルコンテンツを制作した。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>clusterワールド制作</title>
+      <link>https://te260ku.github.io/portfolio/casual/work-cluster/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/casual/work-cluster/</guid>
+      <description>&lt;p&gt;バーチャルSNS「&lt;a href=&#34;https://cluster.mu/&#34;&gt;cluster&lt;/a&gt;」にて、バーチャルにおける特異で新しい体験を軸に、様々なワールドを制作している。&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>マルチタスク環境下における半自律型ロボットの監視支援インターフェース</title>
       <link>https://te260ku.github.io/portfolio/work/work-teleoperation/</link>
-      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/work/work-teleoperation/</guid>
       <description>&lt;p&gt;遠隔地のロボットの“ながら”テレオペレーションを支援するインターフェース。&lt;/p&gt;</description>
     </item>
     <item>
       <title>移動ロボットを用いた広域・高解像度な凹凸地図の構築</title>
       <link>https://te260ku.github.io/portfolio/work/work-hapmap/</link>
-      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/work/work-hapmap/</guid>
       <description>&lt;p&gt;移動ロボットとVIOを用いて、地面の数mm程度の凹凸の情報を含む触覚地図を構築する触覚センシングシステムを開発した。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>clusterワールド制作</title>
-      <link>https://te260ku.github.io/portfolio/casual/work-cluster/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/casual/work-cluster/</guid>
-      <description>&lt;p&gt;バーチャルSNS「&lt;a href=&#34;https://cluster.mu/&#34;&gt;cluster&lt;/a&gt;」にて、バーチャルにおける特異で新しい体験を軸に、様々なワールドを制作している。&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>両眼視野闘争による視覚的なマスキングを用いたRedirected Walking</title>
       <link>https://te260ku.github.io/portfolio/work/work-br-redirection/</link>
-      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/work/work-br-redirection/</guid>
       <description>&lt;p&gt;両眼視野闘争の性質を活用したRedirected Walkingの手法を検討した。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>匂いの回路</title>
-      <link>https://te260ku.github.io/portfolio/work/work-fragrance-circuit/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/work/work-fragrance-circuit/</guid>
-      <description>&lt;p&gt;嗅覚能力の擬似的な拡張を体験するマルチモーダルコンテンツを制作した。&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Piropiro User Interface</title>
       <link>https://te260ku.github.io/portfolio/work/work-pui/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/work/work-pui/</guid>
       <description>&lt;p&gt;吹き戻しを用いて息の検出を行うユーザーインターフェースと、それを用いて身体部位や息に対する拡張感を提示するアプリケーションを開発した。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>θ館ワールド</title>
-      <link>https://te260ku.github.io/portfolio/casual/work-theta/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/casual/work-theta/</guid>
-      <description>&lt;p&gt;コロナウイルスによる遠隔授業の広まりを受け、大学の講義棟をバーチャルSNS「&lt;a href=&#34;https://cluster.mu/&#34;&gt;cluster&lt;/a&gt;」にて再現した。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Doremi Squash</title>
-      <link>https://te260ku.github.io/portfolio/casual/work-doremi-squash/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/casual/work-doremi-squash/</guid>
-      <description>&lt;p&gt;空間の幾何情報を活用したインタラクティブなMRゲーム。部屋の壁や床にボールを当ててスカッシュをプレイする。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tiger Hunting</title>
-      <link>https://te260ku.github.io/portfolio/casual/work-tiger-hunting/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/casual/work-tiger-hunting/</guid>
-      <description>&lt;p&gt;闇夜に身を潜める野生のトラを駆除するVRシューティングゲーム。3Dプリントした実寸大のライフルを持ちながら体験する。&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>ねこ放題</title>
       <link>https://te260ku.github.io/portfolio/work/work-neko/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/work/work-neko/</guid>
       <description>&lt;p&gt;VR空間で猫に触れたときの触感を手の平全体に対して提示する装置。バーチャル空間内の動物とふれあうコンテンツに応用した。&lt;/p&gt;</description>
     </item>

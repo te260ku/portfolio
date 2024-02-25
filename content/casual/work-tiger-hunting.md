@@ -3,7 +3,7 @@ layout: post
 title: Tiger Hunting
 img: tiger_hunting.png
 categories: [casual]
-date: 2019-10-01
+date: "2024-01-07"
 tags: [XR, Game, Unity]
 ---
 

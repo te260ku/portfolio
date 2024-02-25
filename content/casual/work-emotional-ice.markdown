@@ -3,7 +3,7 @@ layout: post
 title:  "Emotional Ice"
 img: emotional_ice.png
 categories: [casual]
-date: 2019-10-01
+date: "2024-01-10"
 tags: [IoT, Javascript, Electronics]
 ---
 表情によって尖ったり凹んだりする製氷モーダル。IoTにおける食べることによるインタラクションの可能性を検証した。

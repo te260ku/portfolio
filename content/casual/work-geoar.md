@@ -3,7 +3,7 @@ layout: post
 title:  "Map with GeoAR"
 img: geoar.png
 categories: [casual]
-date: "2022-03-28"
+date: "2024-01-02"
 tags: [XR, Javascript]
 ---
 

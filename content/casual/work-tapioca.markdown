@@ -1,6 +1,6 @@
 ---
 title:  "Tapioca Hunter"
-date:   2019-07-01 10:51:47 +0530
+date: "2024-01-03"
 img: "tapioca.png"
 categories: [casual]
 tags: [Game, Javascript]

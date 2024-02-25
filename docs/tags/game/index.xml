@@ -6,47 +6,47 @@
     <description>Recent content in Game on Tetsuro Okuya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://te260ku.github.io/portfolio/tags/game/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oto-Kabe</title>
       <link>https://te260ku.github.io/portfolio/casual/work-oto-kabe/</link>
-      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/casual/work-oto-kabe/</guid>
       <description>&lt;p&gt;身の回りの机や壁を叩いて遊ぶARリズムゲーム。物理空間のあらゆる平面をインタラクト可能な物体に書き換えてゲームに取り込む。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>clusterワールド制作</title>
-      <link>https://te260ku.github.io/portfolio/casual/work-cluster/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/casual/work-cluster/</guid>
-      <description>&lt;p&gt;バーチャルSNS「&lt;a href=&#34;https://cluster.mu/&#34;&gt;cluster&lt;/a&gt;」にて、バーチャルにおける特異で新しい体験を軸に、様々なワールドを制作している。&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Doremi Squash</title>
       <link>https://te260ku.github.io/portfolio/casual/work-doremi-squash/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/casual/work-doremi-squash/</guid>
       <description>&lt;p&gt;空間の幾何情報を活用したインタラクティブなMRゲーム。部屋の壁や床にボールを当ててスカッシュをプレイする。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Cosmo Shooter</title>
-      <link>https://te260ku.github.io/portfolio/casual/work-three-fps/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/casual/work-three-fps/</guid>
-      <description>&lt;p&gt;銀河に散らばる宇宙ゴミを撃ち落とすブラウザベースのFPS。&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Tiger Hunting</title>
       <link>https://te260ku.github.io/portfolio/casual/work-tiger-hunting/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/casual/work-tiger-hunting/</guid>
       <description>&lt;p&gt;闇夜に身を潜める野生のトラを駆除するVRシューティングゲーム。3Dプリントした実寸大のライフルを持ちながら体験する。&lt;/p&gt;</description>
     </item>
     <item>
+      <title>clusterワールド制作</title>
+      <link>https://te260ku.github.io/portfolio/casual/work-cluster/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/casual/work-cluster/</guid>
+      <description>&lt;p&gt;バーチャルSNS「&lt;a href=&#34;https://cluster.mu/&#34;&gt;cluster&lt;/a&gt;」にて、バーチャルにおける特異で新しい体験を軸に、様々なワールドを制作している。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cosmo Shooter</title>
+      <link>https://te260ku.github.io/portfolio/casual/work-three-fps/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/casual/work-three-fps/</guid>
+      <description>&lt;p&gt;銀河に散らばる宇宙ゴミを撃ち落とすブラウザベースのFPS。&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Tapioca Hunter</title>
       <link>https://te260ku.github.io/portfolio/casual/work-tapioca/</link>
-      <pubDate>Mon, 01 Jul 2019 10:51:47 +0530</pubDate>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/casual/work-tapioca/</guid>
       <description>&lt;p&gt;ブラウザ上で遊べるタピオカをテーマにしたインタラクティブなゲーム。3次元空間に浮遊するタピオカをクリックしてハイスコアを目指す。&lt;/p&gt;</description>
     </item>

@@ -6,12 +6,12 @@
     <description>Recent content in Image Processing on Tetsuro Okuya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://te260ku.github.io/portfolio/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>POP1 Kill Extractor</title>
       <link>https://te260ku.github.io/portfolio/casual/work-pop1/</link>
-      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/casual/work-pop1/</guid>
       <description>&lt;p&gt;VRゲーム「POPULATION: ONE」のプレイ映像から、自動的にキルシーンを抽出してキル集を作成するツール。&lt;/p&gt;</description>
     </item>

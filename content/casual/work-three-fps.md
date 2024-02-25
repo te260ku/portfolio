@@ -3,7 +3,7 @@ layout: post
 title: Cosmo Shooter
 img: cosmo_shooter.png
 categories: [casual]
-date: 2019-12-01
+date: "2024-01-04"
 tags: [Game, Javascript]
 ---
 

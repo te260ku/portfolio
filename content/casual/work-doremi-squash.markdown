@@ -3,7 +3,7 @@ layout: post
 title:  "Doremi Squash"
 img: doremi_squash.png
 categories: [casual]
-date: "2020-01-01"
+date: "2024-01-12"
 tags: [XR, Game, Magic Leap, Unity]
 ---
 

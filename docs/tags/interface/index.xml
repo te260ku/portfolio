@@ -6,40 +6,40 @@
     <description>Recent content in Interface on Tetsuro Okuya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://te260ku.github.io/portfolio/tags/interface/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>POP1 Kill Extractor</title>
       <link>https://te260ku.github.io/portfolio/casual/work-pop1/</link>
-      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/casual/work-pop1/</guid>
       <description>&lt;p&gt;VRゲーム「POPULATION: ONE」のプレイ映像から、自動的にキルシーンを抽出してキル集を作成するツール。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unity ROS Action Planner</title>
       <link>https://te260ku.github.io/portfolio/casual/work-unity-ros-planner/</link>
-      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/casual/work-unity-ros-planner/</guid>
       <description>&lt;p&gt;UnityからROSのトピックに任意のメッセージを送信するためのインターフェースを実装した。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>マルチタスク環境下における半自律型ロボットの監視支援インターフェース</title>
-      <link>https://te260ku.github.io/portfolio/work/work-teleoperation/</link>
-      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/work/work-teleoperation/</guid>
-      <description>&lt;p&gt;遠隔地のロボットの“ながら”テレオペレーションを支援するインターフェース。&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Path-Code</title>
       <link>https://te260ku.github.io/portfolio/casual/work-path-code/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/casual/work-path-code/</guid>
       <description>&lt;p&gt;定められたルートを特定の移動方法で辿ることで、隠蔽された情報にアクセスする暗号化システムを開発した。&lt;/p&gt;</description>
     </item>
     <item>
+      <title>マルチタスク環境下における半自律型ロボットの監視支援インターフェース</title>
+      <link>https://te260ku.github.io/portfolio/work/work-teleoperation/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/work/work-teleoperation/</guid>
+      <description>&lt;p&gt;遠隔地のロボットの“ながら”テレオペレーションを支援するインターフェース。&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Piropiro User Interface</title>
       <link>https://te260ku.github.io/portfolio/work/work-pui/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/work/work-pui/</guid>
       <description>&lt;p&gt;吹き戻しを用いて息の検出を行うユーザーインターフェースと、それを用いて身体部位や息に対する拡張感を提示するアプリケーションを開発した。&lt;/p&gt;</description>
     </item>

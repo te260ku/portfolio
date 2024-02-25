@@ -6,40 +6,40 @@
     <description>Recent content in Haptics on Tetsuro Okuya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://te260ku.github.io/portfolio/tags/haptics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Boomshin: 触覚提示の有無を時空間的に変動させるVRゲーム体験の評価</title>
-      <link>https://te260ku.github.io/portfolio/work/work-boomshin/</link>
-      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/work/work-boomshin/</guid>
-      <description>&lt;p&gt;VR空間における触覚提示の有無を時空間的に切り替えることがVRゲーム体験に及ぼす影響を調査した。&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Oto-Kabe</title>
       <link>https://te260ku.github.io/portfolio/casual/work-oto-kabe/</link>
-      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/casual/work-oto-kabe/</guid>
       <description>&lt;p&gt;身の回りの机や壁を叩いて遊ぶARリズムゲーム。物理空間のあらゆる平面をインタラクト可能な物体に書き換えてゲームに取り込む。&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Boomshin: 触覚提示の有無を時空間的に変動させるVRゲーム体験の評価</title>
+      <link>https://te260ku.github.io/portfolio/work/work-boomshin/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/work/work-boomshin/</guid>
+      <description>&lt;p&gt;VR空間における触覚提示の有無を時空間的に切り替えることがVRゲーム体験に及ぼす影響を調査した。&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>移動ロボットを用いた広域・高解像度な凹凸地図の構築</title>
       <link>https://te260ku.github.io/portfolio/work/work-hapmap/</link>
-      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/work/work-hapmap/</guid>
       <description>&lt;p&gt;移動ロボットとVIOを用いて、地面の数mm程度の凹凸の情報を含む触覚地図を構築する触覚センシングシステムを開発した。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Piropiro User Interface</title>
       <link>https://te260ku.github.io/portfolio/work/work-pui/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/work/work-pui/</guid>
       <description>&lt;p&gt;吹き戻しを用いて息の検出を行うユーザーインターフェースと、それを用いて身体部位や息に対する拡張感を提示するアプリケーションを開発した。&lt;/p&gt;</description>
     </item>
     <item>
       <title>ねこ放題</title>
       <link>https://te260ku.github.io/portfolio/work/work-neko/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/work/work-neko/</guid>
       <description>&lt;p&gt;VR空間で猫に触れたときの触感を手の平全体に対して提示する装置。バーチャル空間内の動物とふれあうコンテンツに応用した。&lt;/p&gt;</description>
     </item>
