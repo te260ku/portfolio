@@ -1,13 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Tetsuro Okuya</title>
+    <title>Tags on TETSURO OKUYA</title>
     <link>https://te260ku.github.io/portfolio/tags/</link>
-    <description>Recent content in Tags on Tetsuro Okuya</description>
+    <description>Recent content in Tags on TETSURO OKUYA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://te260ku.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Illusion</title>
+      <link>https://te260ku.github.io/portfolio/tags/illusion/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/tags/illusion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psychology</title>
+      <link>https://te260ku.github.io/portfolio/tags/psychology/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/tags/psychology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ROS</title>
+      <link>https://te260ku.github.io/portfolio/tags/ros/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/tags/ros/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unity</title>
+      <link>https://te260ku.github.io/portfolio/tags/unity/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/tags/unity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>XR</title>
+      <link>https://te260ku.github.io/portfolio/tags/xr/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/tags/xr/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Game</title>
       <link>https://te260ku.github.io/portfolio/tags/game/</link>
@@ -20,20 +55,6 @@
       <link>https://te260ku.github.io/portfolio/tags/haptics/</link>
       <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/tags/haptics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Unity</title>
-      <link>https://te260ku.github.io/portfolio/tags/unity/</link>
-      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/tags/unity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>XR</title>
-      <link>https://te260ku.github.io/portfolio/tags/xr/</link>
-      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/tags/xr/</guid>
       <description></description>
     </item>
     <item>
@@ -58,13 +79,6 @@
       <description></description>
     </item>
     <item>
-      <title>ROS</title>
-      <link>https://te260ku.github.io/portfolio/tags/ros/</link>
-      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/tags/ros/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Javascript</title>
       <link>https://te260ku.github.io/portfolio/tags/javascript/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
@@ -86,13 +100,6 @@
       <description></description>
     </item>
     <item>
-      <title>Illusion</title>
-      <link>https://te260ku.github.io/portfolio/tags/illusion/</link>
-      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/tags/illusion/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Olfactory</title>
       <link>https://te260ku.github.io/portfolio/tags/olfactory/</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
@@ -104,13 +111,6 @@
       <link>https://te260ku.github.io/portfolio/tags/iot/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://te260ku.github.io/portfolio/tags/iot/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Psychology</title>
-      <link>https://te260ku.github.io/portfolio/tags/psychology/</link>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://te260ku.github.io/portfolio/tags/psychology/</guid>
       <description></description>
     </item>
     <item>

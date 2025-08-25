@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Illusion on Tetsuro Okuya</title>
+    <title>Illusion on TETSURO OKUYA</title>
     <link>https://te260ku.github.io/portfolio/tags/illusion/</link>
-    <description>Recent content in Illusion on Tetsuro Okuya</description>
+    <description>Recent content in Illusion on TETSURO OKUYA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://te260ku.github.io/portfolio/tags/illusion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amplified Pendulum: ロール方向の曲線運動における曲率増幅とその知覚閾値の検証</title>
+      <link>https://te260ku.github.io/portfolio/work/work-amplified-pendulum-2/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/work/work-amplified-pendulum-2/</guid>
+      <description>&lt;p&gt;実空間よりも急峻な曲線軌道に沿って運動するように知覚させるVRアトラクションの検討および開発を行った。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amplified Pendulum: オプティカルフローを用いた上半身のロール軸回転の増幅</title>
+      <link>https://te260ku.github.io/portfolio/work/work-amplified-pendulum-1/</link>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://te260ku.github.io/portfolio/work/work-amplified-pendulum-1/</guid>
+      <description>&lt;p&gt;上半身のロール方向の傾斜運動に対してリダイレクション操作で用いられる回転ゲインを適用し、実空間よりも大きく回転する錯覚を調査した。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>恋風</title>
       <link>https://te260ku.github.io/portfolio/casual/work-koikaze/</link>
